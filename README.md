@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, TypeScript, Web 3.O, Artificial Intelligence, NextJs**
 
-- 👨‍💻 All of my projects are available at [http://sarfarazunarr.great-site.net](http://sarfarazunarr.great-site.net)
+- 👨‍💻 My Portfolio website [https://sarfarazunarr.vercel.app](https://sarfarazunarr.vercel.app)
 
 - 📝 I regularly write articles on [https://www.sarfarazunarr.blogspot.com](https://www.sarfarazunarr.blogspot.com)
 
