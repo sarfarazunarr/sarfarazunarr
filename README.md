@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://sarfarazunarr.vercel.app">
-    <img src="https://avatars.githubusercontent.com/u/130893009?v=4" alt="Sarfaraz Unar Icon" width="200"/>
-  </a>
   
   <h1>Hi there! I'm Sarfaraz Unar 👋</h1>
   
